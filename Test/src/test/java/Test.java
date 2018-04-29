@@ -7,4 +7,8 @@ public class Test {
     public void add(Integer j){
         System.out.println("I am in add method");
     }
+
+    public int multiply(Integer i , Integer j){
+        return i * j;
+    }
 }
