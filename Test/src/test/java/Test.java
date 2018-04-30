@@ -11,4 +11,8 @@ public class Test {
     public int multiply(Integer i , Integer j){
         return i * j;
     }
+
+    public int subtraction(Integer i, Integer j){
+        return i-j;
+    }
 }
